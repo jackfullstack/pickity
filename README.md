@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Description
+
+An app to retrieve pictures with the Unsplash API from a search. Styling to be done with Semantic UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
